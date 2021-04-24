@@ -1,4 +1,4 @@
-// Example testbench for MIPS processor
+// Example testbench for MIPS MULTI processor
 
 // Example testbench for MIPS processor
 
